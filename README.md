@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/RafaelAndrade25" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/RafaelAndrade25/"C:\Users\Rafael\Documents\assets\fundo1.png"" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Living and learning about everything that surround us. <br><br> Studying and doing projects for my computer learning. With the aim of specializing in backand. Currently with knowledge of HTML, CSS, javaScript, python, C#, Flask api, mySQL</p>&nbsp;
