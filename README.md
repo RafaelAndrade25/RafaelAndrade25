@@ -3,11 +3,7 @@
 
 <p align="center">Living and learning about everything that surround us. <br><br> Studying and doing projects for my computer learning. With the aim of specializing in backand. Currently with knowledge of HTML, CSS, javaScript, python, C#, Flask api, mySQL</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github.com/RafaelAndrade25/RafaelAndrade25/edit/main/README.md" />
-<img width=40% align="center" src="https://github.com/RafaelAndrade25/RafaelAndrade25/edit/main/README.md" />
- </div>
- 
+
  &nbsp;
  &nbsp;
 
